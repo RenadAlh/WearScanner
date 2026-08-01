@@ -78,18 +78,13 @@ Metrics below are from TensorBoard logs and final test-set evaluation.
 
 *Example run: uploaded image alongside the 28×28 preprocessed grayscale transform, predicted class (**DRESS**, 91.59% confidence), and generated style tip.*
 
-## Usage
+## Usage Guide
 
-Open `WearScanner.ipynb` in Jupyter, JupyterLab, or Google Colab and run all cells top to bottom. The notebook:
+The complete step-by-step execution guide is documented directly inside the notebook:
 
-1. Loads Fashion-MNIST and explores/visualizes sample images
-1. Preprocesses and re-splits the data 70/30
-1. Builds and trains the CNN
-1. Logs metrics to TensorBoard
-1. Evaluates on the test set (loss, accuracy, precision, recall)
-1. Runs an interactive demo — upload a clothing image and get a prediction + style tip
+[![Open In Colab](https://img.shields.io/badge/Google_Colab-Open_Notebook-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](YOUR_COLAB_NOTEBOOK_LINK_HERE)
 
-> The image-upload demo cell uses `google.colab.files.upload()`, so that specific cell only works in Colab. Everything else runs in any standard Jupyter environment.
+>  **Quick Note:** The interactive image-upload demo cell uses `google.colab.files.upload()`, which is designed for **Google Colab**. All model architecture, training, TensorBoard logging, and evaluation cells run seamlessly in any standard Jupyter environment.
 
 ## Dataset
 
