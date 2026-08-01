@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.10%2B-orange?logo=tensorflow&logoColor=white)
 [![PDF Report](https://img.shields.io/badge/Documentation-PDF_Report-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](./WearScanner%20Report.pdf)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/<your-repo>/blob/main/WearScanner-AISD.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renadalh/WearScanner/blob/main/WearScanner.ipynb)
 [![License: Academic](https://img.shields.io/badge/License-Academic_Use_Only-4B5563?style=flat-square&logo=academia)](https://opensource.org/licenses/MIT)
 
 </div>
@@ -82,7 +82,7 @@ Metrics below are from TensorBoard logs and final test-set evaluation.
 
 The complete step-by-step execution guide is documented directly inside the notebook:
 
-[![Open In Colab](https://img.shields.io/badge/Google_Colab-Open_Notebook-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](YOUR_COLAB_NOTEBOOK_LINK_HERE)
+[![Open In Colab](https://img.shields.io/badge/Google_Colab-Open_Notebook-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/renadalh/WearScanner/blob/main/WearScanner.ipynb)
 
 >  **Quick Note:** The interactive image-upload demo cell uses `google.colab.files.upload()`, which is designed for **Google Colab**. All model architecture, training, TensorBoard logging, and evaluation cells run seamlessly in any standard Jupyter environment.
 
