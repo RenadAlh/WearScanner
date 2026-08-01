@@ -6,7 +6,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.10%2B-orange?logo=tensorflow&logoColor=white)
+[![PDF Report](https://img.shields.io/badge/Documentation-PDF_Report-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](./WearScanner%20Report.pdf)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/<your-repo>/blob/main/WearScanner-AISD.ipynb)
+[![License: Academic](https://img.shields.io/badge/License-Academic_Use_Only-4B5563?style=flat-square&logo=academia)](https://opensource.org/licenses/MIT)
 
 </div>
 
@@ -106,13 +108,14 @@ Open `WearScanner.ipynb` in Jupyter, JupyterLab, or Google Colab and run all cel
 
 WearScanner achieved strong performance on the Fashion-MNIST test set (92.92% accuracy, 93.13% precision, and 92.92% recall), demonstrating good generalization and reliability across clothing categories. As bonus work, the notebook also includes an interactive demo providing real-time style feedback.
 
-## References
+### 📄 Academic Documentation
 
-1. Han Xiao, Kashif Rasul, and Roland Vollgraf. *Fashion-MNIST: A Novel Image Dataset for Benchmarking Machine Learning Algorithms.* arXiv, 2017.
-1. TensorFlow Team. *TensorBoard.* https://www.tensorflow.org/tensorboard, 2025.
-1. StackExchange Community. *Overfitting in Neural Network.* https://stats.stackexchange.com/questions/292700/overfitting-in-neural-network. Accessed 2025-11-21.
-1. Pushparaja Murugan. *Implementation of Deep Convolutional Neural Network in Multi-Class Categorical Image Classification.* arXiv, 2018.
-1. Olivia Nocentini, Jaeseok Kim, Muhammad Zain Bashir, and Filippo Cavallo. *Image Classification Using Multiple Convolutional Neural Networks on the Fashion-MNIST Dataset.* Sensors (Basel, Switzerland), 22, 2022.
+[![Read Report](https://img.shields.io/badge/Read_Full_Report-WearScanner_Report.pdf-E10600?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./WearScanner%20Report.pdf)
+
+> * **Model Architecture:** CNN design, layer configurations, and activation choices.
+> * **Performance & Metrics:** Detailed justification for Accuracy, Precision, Recall, and Cross-Entropy Loss.
+> * **Training Analysis:** TensorBoard visualization, epoch tracking, and regularization insights.
+> * **References:** Academic citations and dataset benchmarks.
 
 ## Team
 
