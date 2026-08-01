@@ -125,3 +125,11 @@ WearScanner achieved strong performance on the Fashion-MNIST test set (92.92% ac
 [![Rahaf Almalki](https://img.shields.io/badge/Rahaf_Almalki-RahafAlmalki-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahafAlmalki)
 
 </div>
+
+---
+
+<div align="center">
+
+Made with ❤️ by the WearScanner team
+
+</div>
