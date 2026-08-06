@@ -1,6 +1,10 @@
+<div align="center">
+
 # WearScanner 👕🔍
 
-**A CNN-based fashion item classifier that pairs each prediction with automatic style feedback** ; vibe, recommended occasion, and accessory ideas. Trained on Fashion-MNIST, WearScanner predicts a clothing category from a 28×28 grayscale image and returns a short styling tip alongside the prediction.
+**A CNN-based fashion item classifier that pairs each prediction with automatic style feedback**; vibe, recommended occasion, and accessory ideas. Trained on Fashion-MNIST, WearScanner predicts a clothing category from a 28×28 grayscale image and returns a short styling tip alongside the prediction.
+
+</div>
 
 <div align="center">
 
